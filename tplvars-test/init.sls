@@ -1,2 +1,3 @@
 include:
   - .from-tplroot
+  - .subcomponent
